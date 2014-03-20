@@ -1,0 +1,10 @@
+p {
+	letter-spacing: 2px;
+
+}
+p.align {
+	text-align: right;
+	text-transform: inherit;
+	text-decoration: underline;
+	font: 24px Comic Sans MS, sans-serif;
+}

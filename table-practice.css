@@ -1,0 +1,10 @@
+table.p1 {
+	border-collapse: separate;
+	border-spacing: 10px 5px;
+}
+
+table.p2 {
+	border-collapse: separate;
+	border-spacing: 100px 120px;
+	/*table-layout: fixed;*/
+}

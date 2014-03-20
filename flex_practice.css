@@ -1,0 +1,12 @@
+#main {
+	width: 400px;
+	height: 800px;
+	border: 2px solid black;
+	display: flex;
+	flex-wrap: wrap;
+}
+div.flex {
+	width: 100px;
+	height: 100px;
+	margin: 5px 10px;
+}
