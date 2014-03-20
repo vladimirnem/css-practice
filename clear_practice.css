@@ -1,0 +1,10 @@
+img {
+	float: left;
+}
+
+p.clear {
+	clear: both;
+}
+p.display {
+	display: inline;
+}
