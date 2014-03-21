@@ -1,0 +1,79 @@
+div {
+	border: 1px solid black;
+	display: inline-block;
+}
+p {
+	color: red;
+	border: 1px solid black;
+	display: inline;
+}
+canvas.d1 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: inline;
+}
+canvas.d2 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: inline;
+}
+canvas.d3 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: inline;
+}
+canvas.d4 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: none;
+}
+canvas.d5 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: none;
+}
+canvas.d6 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: block;
+}
+canvas.d7 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: block;
+}
+div.d8 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: none;
+}
+div.d9 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: none;
+}
+div.d10 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border:1px solid red;
+	display: none;
+}

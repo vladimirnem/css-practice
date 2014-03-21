@@ -1,0 +1,62 @@
+body {
+	background: url('http://24.media.tumblr.com/79968e4f937d6333696327528984bd93/tumblr_mo8bmm223s1rirnzso1_400.jpg');
+
+
+	
+}
+canvas.d4 {
+	  border: 10px double;
+   padding: 10px;
+   background: url('http://a212.phobos.apple.com/us/r30/Purple2/v4/ec/01/70/ec01707a-64bd-d869-6d0b-c748e1e5669f/mzl.xpoofnzp.128x128-75.png') , url('http://a3.mzstatic.com/us/r30/Purple4/v4/ea/7a/2c/ea7a2c6a-f524-7956-721f-efc6931c58a2/icon_256.png');
+   background-position: top right, 0px 0px;
+  background-repeat: repeat-x; 
+   background-origin: content-box , padding-box;
+}
+canvas.d5 {
+	width: 100px;
+	height: 100px;
+	background: url('https://sites.google.com/site/eleganticons/Home/downloadicons.png');
+    background-attachment: fixed;
+/* background-position !!!!!*/
+	border: 5px solid green;
+	position: fixed;
+	
+}
+canvas.d6 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+	position: relative;
+	/*position: absolute; top: 10px; left: 5px;   /*!!!!!!!!*/
+}
+canvas.d7 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+}
+div.d8 {
+	width: 100px;
+	height: 100px;
+	background: url('http://a3.mzstatic.com/us/r30/Purple4/v4/ea/7a/2c/ea7a2c6a-f524-7956-721f-efc6931c58a2/icon_256.png');
+	background-attachment: scroll;
+	background-size: 50% 50%;
+	background-repeat: repeat-y;
+	border: 5px solid green;
+
+}
+div.d9 {
+	position: relative; left: 20px; top: 20px;
+	width: 100px;
+	height: 100px;
+	background: rgb(125,255,141);
+	border: 5px solid green;
+}
+div.d10 {
+	width: 100px;
+	height: 100px;
+	background-color: hsl(180, 70%, 65%);
+	border: 5px solid green;
+	background-clip: padding-box;
+}

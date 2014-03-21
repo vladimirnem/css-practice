@@ -1,0 +1,47 @@
+canvas.d4 {
+	width: 100px;
+	height: 100px;
+	background: #ddf;
+	border: 5px solid green;
+	position: fixed;
+}
+canvas.d5 {
+	width: 100px;
+	height: 100px;
+	background: #ddf;
+	border: 5px solid green;
+	position: relative; left: 10px; top: 10px; 
+}
+canvas.d6 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+	/*position: absolute; top: 10px; left: 5px;   /*!!!!!!!!*/
+}
+canvas.d7 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+}
+div.d8 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+	position: absolute;
+}
+div.d9 {
+	position: relative; left: 20px; top: 20px;
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+}
+div.d10 {
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: 5px solid green;
+}
