@@ -1,0 +1,30 @@
+p.lside {
+	border: 1px dotted black;
+	float: left;
+	width: 10em;
+	padding: 0.25em;
+	margin: 0.5em;
+
+}
+
+p.rgt {
+	border: 1px dotted red;
+	float: right;
+	width: 10em;
+	padding: 15px 20px 15px 20px;
+	margin: 2px 1px 10px;
+}
+p.lside2 {
+		border: 1px dotted black;
+	float: left;
+	width: 10em;
+	padding: 0em 0.5em;
+	margin: 0.5em 1px;
+}
+p.rgt2 {
+	border: 1px dotted red;
+	float: right;
+	width: 25%;
+	padding:0em 5px 0em;
+	margin:0em 0em 1em 0.2em;
+}
