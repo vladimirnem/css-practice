@@ -16,3 +16,10 @@ input:required {
 	border-color: blue;
 	border-width: 3px;
 }
+
+p.box {
+	border: 1px dotted black;
+	box-shadow: 10px 5px 5px black,
+	            inset 0 0 1em gold;
+}
+ 

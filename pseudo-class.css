@@ -9,6 +9,10 @@ a:active { color: lime }
 	height: 100px;
 	text-align: center;
 }
+#box:after {
+	content: '!!!';
+	color: gray;
+}
 
 .box:empty {
 	background: yellow;
@@ -32,3 +36,14 @@ p:first-of-type {
 .secondfocus:focus {
 	color:blue;
 	}
+p.bd2 {
+	padding: 0.3em;
+	background-color: gold;
+	border: 2px groove gold;
+	/*-webkit-columns:3;
+	columns: 3;*/
+	-webkit-column-rule: inset 2px gold;
+	-webkit-column-width: 20em;
+	column-rule: inset 2px gold;
+	column-width: 17em;
+}
