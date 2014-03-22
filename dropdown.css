@@ -1,0 +1,18 @@
+div.menu-bar ul ul {
+  display: none;
+}
+
+div.menu-bar li:hover > ul {
+  display: block;
+}
+input:invalid {
+	background-color: red;
+	}
+input:valid {
+	background-color: hsl(160, 80%, 80%);
+}
+
+input:required {
+	border-color: blue;
+	border-width: 3px;
+}

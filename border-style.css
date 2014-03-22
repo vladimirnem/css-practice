@@ -1,0 +1,19 @@
+a {
+	border-style: dashed;
+	display: block;
+	text-align: center;
+}
+p.bd1 {
+	border-style: groove;
+	width: 100px;
+	float: left;
+
+}
+p.bd2 {
+	border-style: outset;
+	width: 100px;
+    float: right;
+    clear: both;
+
+
+}
